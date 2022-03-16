@@ -10,4 +10,5 @@ public class UploadApplication {
 		SpringApplication.run(UploadApplication.class, args);
 	}
 
+
 }
